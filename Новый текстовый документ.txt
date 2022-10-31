@@ -1,0 +1,23 @@
+				Total Sum Pseudocode
+
+BEGIN
+use variable INPUT sum AS int
+use variable d = 0 AS int 
+FOR value i AS int =1; i <= sum; i + 1 DO
+ d = d + 1
+END FOR
+
+OUTPUT value d
+END
+
+
+				Divisible on 3 and 5
+
+BEGIN 
+use value number = 100 AS int 
+FOR value i AS int =1; i <= number; i + 1 DO
+   IF i divisible 3 remainer is 0 OR i divisible 5 remainer is 0
+ 	OUTPUT i
+   END IF
+END FOR
+END
