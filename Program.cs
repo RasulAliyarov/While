@@ -1,14 +1,12 @@
-﻿//int sum = int.Parse(Console.ReadLine());
-//int d = 0;
-//for (int i = 1; i <= sum; i++)
-//{
-//    d = d + i;
-//}
-//Console.WriteLine(d);
+int sum = int.Parse(Console.ReadLine());
+int d = 0;
+for (int i = 1; i <= sum; i++)
+{
+    d = d + i;
+}
+Console.WriteLine(d);
 
-//---------------------------------------------------------------------
-
-
+---------------------------------------------------------------------
 
 int number = 100;
 
